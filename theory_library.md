@@ -1,4 +1,3 @@
-``markdown
 # Theory Library
 # 舆情分析传播理论知识库
 
