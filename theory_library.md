@@ -1,6 +1,4 @@
-下面是可以直接复制保存为 `theory_library.md` 的完整版（V0.1）。它按照你的 `public-opinion-intelligence-agent` 设计，重点服务于“数据 → 理论匹配 → 分析输出”。
-
-```markdown
+``markdown
 # Theory Library
 # 舆情分析传播理论知识库
 
